@@ -1,10 +1,10 @@
 # EdGraph Open Source
 
-Welcome to the official open source organization for **EdGraph**, an education technology platform providing data management, integration, and interoperability solutions for K-12 education.
+Welcome to the official open source organization for **EdGraph**, an education technology platform providing data management, integration, and interoperability solutions for education.
 
 ## About EdGraph
 
-EdGraph builds infrastructure that helps school districts, Educational Service Agencies (ESAs), and State Education Agencies (SEAs) unlock the power of their data. Our platform enables seamless data integration, standardization, and analytics across the education ecosystem.
+EdGraph builds infrastructure that helps school districts, Educational Service Agencies (ESAs), State Education Agencies (SEAs) and Vendors unlock the power of their data. Our platform enables seamless data integration, standardization, and analytics across the education ecosystem.
 
 We believe in the power of open standards and community collaboration to improve educational outcomes for students everywhere.
 
